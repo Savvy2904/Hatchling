@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 36f9885c8cf584855a80a28cc7ae4abf
+timeCreated: 1497486342
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: la fraktouille
+  fontNames:
+  - la fraktouille
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
